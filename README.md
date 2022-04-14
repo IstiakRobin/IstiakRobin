@@ -1,4 +1,4 @@
-<a align="center" href="https://ibb.co/G9DtDXN"><img src="https://i.ibb.co/BGJrJmF/Screenshot-3.png" alt="Screenshot-3" border="0"></a>
+<a align="center" href="https://ibb.co/G9DtDXN"><img src="https://i.ibb.co/BGJrJmF/Screenshot-3.png" alt="Screenshot-3" border-radius="20" display="block"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istiakrobin&label=Profile%20views&color=0e75b6&style=flat" alt="istiakrobin" /> </p>
 <P align="left" style="color:white">
