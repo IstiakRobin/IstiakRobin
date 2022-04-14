@@ -1,6 +1,4 @@
-<a href="https://ibb.co/wSWywt9"><img src="https://i.ibb.co/jyMhWtc/Purple-and-Pink-Organic-and-Handcrafted-Welcome-Message-Elementary-Back-to-School-Banner.png" alt="Purple-and-Pink-Organic-and-Handcrafted-Welcome-Message-Elementary-Back-to-School-Banner" border="0"></a>
-<h1 align="center">Hi 👋, I'm Istiak Robin</h1>
-<h3 align="center">A passionate Full Stack developer from Bangadesh</h3>
+<a href="https://ibb.co/G9DtDXN"><img src="https://i.ibb.co/BGJrJmF/Screenshot-3.png" alt="Screenshot-3" border="0"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istiakrobin&label=Profile%20views&color=0e75b6&style=flat" alt="istiakrobin" /> </p>
 <P align="left" style="color:white">
