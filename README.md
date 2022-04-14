@@ -2,8 +2,11 @@
 <h3 align="center">A passionate Full Stack developer from Bangadesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istiakrobin&label=Profile%20views&color=0e75b6&style=flat" alt="istiakrobin" /> </p>
-
-- 🌱 I’m currently learning **MERN**
+<P align="center">
+I’m Istiak Robin Passionate at web development. I’m working minimum of 13-14 hours every day, I love to do this it’s my life-everything.
+My goal is to satisfy clients, try to understand what they want for there website, help them from beginning to end the project and give support for every problem.
+If you need I communicate by video or audio conversations to understand the problems and project requirements. After completing website and projects I give instructions, How they can manage, edit, update, add page and post on the website by themselves. if needed I send video tutorials.</>
+- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://istiak.me](https://istiak.me)
 
